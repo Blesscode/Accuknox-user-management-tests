@@ -44,6 +44,10 @@
 
 - Since the UI is opensource and keeps changing therefore here is the recording of pass result based on the website previous UI version
 
-`NOTE: THE VIDEO IS BIG ENOUGH FOR GITHUB TO SHOW PREVIEW OF IT SO IT HAS TO BE SEEN WITH CLOANING THE PROJECT OR A RAW DOWNLOAD`
+- `Note: The video file is too large for GitHub to display a preview.  
+To view it, please:
+Clone the repository and play it locally  
+[OR]
+Click on view raw to see a raw format`
 
 👉 [The result video has been uploaded in the resultScreenshot folder click here to navigate to the folder](./resultScreenshot/ResultRecording.mp4)
