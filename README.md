@@ -42,5 +42,5 @@
 
 # RESULT Recording
 
-- Since the UI is opensource and keeps changing therefore here is the recording of pass result
+- Since the UI is opensource and keeps changing therefore here is the recording of pass result based on the website previous UI version
   <video controls src="resultScreenshot/ResultRecording.mp4" title="Title"></video>
