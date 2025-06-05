@@ -39,3 +39,8 @@
 - PASSED TEST CASES = 50✅
 
   ![alt text](./resultScreenshot/result.png)
+
+# RESULT Recording
+
+- Since the UI is opensource and keeps changing therefore here is the recording of pass result
+  <video controls src="resultScreenshot/ResultRecording.mp4" title="Title"></video>
