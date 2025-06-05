@@ -44,4 +44,6 @@
 
 - Since the UI is opensource and keeps changing therefore here is the recording of pass result based on the website previous UI version
 
-👉 [Click here to watch the result video](./resultScreenshot/ResultRecording.mp4)
+`NOTE: THE VIDEO IS BIG ENOUGH FOR GITHUB TO SHOW PREVIEW OF IT SO IT HAS TO BE SEEN WITH CLOANING THE PROJECT OR A RAW DOWNLOAD`
+
+👉 [The result video has been uploaded in the resultScreenshot folder click here to navigate to the folder](./resultScreenshot/ResultRecording.mp4)
